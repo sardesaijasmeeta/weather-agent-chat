@@ -45,6 +45,7 @@ This project was developed as part of a **Frontend Engineer Assignment**, focusi
 - **Build Tooling:** Next.js + Turbopack
 
 ---
+URL - https://weather-agent-chat-six.vercel.app/
 
 ## 📁 Project Structure
 
@@ -63,3 +64,6 @@ src/app
 ├── globals.css
 ├── layout.js
 └── page.js
+
+
+
